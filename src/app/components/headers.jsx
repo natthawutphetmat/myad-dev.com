@@ -6,13 +6,13 @@ import Link from 'next/link'
  
 
 const navBar = [
-    { href: 'https://www.myads.dev/', name: 'Home' },
-    { href: 'https://www.myads.dev/Postpages', name: 'Postpages' },
-    { href: 'https://www.myads.dev/google', name: 'Google' },
-    { href: 'https://www.myads.dev/facebook', name: 'Facebook' },
-    { href: 'https://www.myads.dev/course', name: 'Course' },
-    { href: 'https://www.myads.dev/toolfree', name: 'ToolFree' },
-    { href: 'https://www.myads.dev/accfb', name: 'บัญชีโฆณา-FB' },
+    { href: 'https://www.myad-dev.com/', name: 'Home' },
+    { href: 'https://www.myad-dev.com/Postpages', name: 'Postpages' },
+    { href: 'https://www.myad-dev.com/google', name: 'Google' },
+    { href: 'https://www.myad-dev.com/facebook', name: 'Facebook' },
+    { href: 'https://www.myad-dev.com/course', name: 'Course' },
+    { href: 'https://www.myad-dev.com/toolfree', name: 'ToolFree' },
+    { href: 'https://www.myad-dev.com/accfb', name: 'บัญชีโฆณา-FB' },
  
 ]
 

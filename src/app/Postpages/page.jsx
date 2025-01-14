@@ -37,7 +37,7 @@ export default function Page() {
         <meta property="og:type" content="website" />
         <meta
           property="og:url"
-          content="https://www.myads.dev/https://www.myads.dev/Postpages"
+          content="https://www.myads.dev/https://www.myad-dev.com/Postpages"
         />
         <meta
           property="og:title"
@@ -47,11 +47,11 @@ export default function Page() {
           property="og:description"
           content="PostPage | เนื้อหาความรู้ดีๆที่ทุกคนเข้าถึงได้ รับจ้างยิงแอดทำโฆษณาออนไลน์ รับทำโฆษณา Facebook Ads รับทำโฆษณา Google ทำโฆษณาเว็บไซต์ต่างๆ ด้วยทีมงานมืออาชีพ"
         />
-        <meta property="og:image" content="https://www.myads.dev/logo.png" />
+        <meta property="og:image" content="https://www.myad-dev.com/logo.png" />
         <meta property="twitter:card" content="summary_large_image" />
         <meta
           property="twitter:url"
-          content="https://www.myads.dev/https://www.myads.dev/Postpages"
+          content="https://www.myads.dev/https://www.myad-dev.com/Postpages"
         />
         <meta
           property="twitter:title"
@@ -61,9 +61,9 @@ export default function Page() {
           property="twitter:description"
           content="PostPage | เนื้อหาความรู้ดีๆที่ทุกคนเข้าถึงได้ รับจ้างยิงแอดทำโฆษณาออนไลน์ รับทำโฆษณา Facebook Ads รับทำโฆษณา Google ทำโฆษณาเว็บไซต์ต่างๆ ด้วยทีมงานมืออาชีพ"
         />
-        <meta property="twitter:image" content="https://www.myads.dev/logo.png" />
+        <meta property="twitter:image" content="https://www.myad-dev.com/logo.png" />
         <meta name="robots" content="index" />
-        <link rel="canonical" href="https://www.myads.dev" />
+        <link rel="canonical" href="https://www.myad-dev.com" />
       </>
 
 

@@ -17,7 +17,7 @@ export default function footer() {
 
 
                     <div className="col-md-6 col-lg-3">
-                        <h5 className="text-white mb-4">Popular Link</h5>
+                        <h5 className="text-white mb-4">myad-dev.com</h5>
                         <a className="foo btn-link" href="">About Us</a> <br />
                         <a className="foo btn-link" href="">Contact Us</a><br />
                         <a className="foo btn-link" href="">Privacy Policy</a><br />
@@ -27,7 +27,7 @@ export default function footer() {
 
 
                     <div className="col-md-6 col-lg-3">
-                        <h5 className="text-white mb-4">Project Gallery</h5>
+                        <h5 className="text-white mb-4">myad-dev.com</h5>
                         <div className="row g-2">
                             <div className="col-4">
                                 <img className="img-fluid" src="img/portfolio-1.webp" alt="Image"/>

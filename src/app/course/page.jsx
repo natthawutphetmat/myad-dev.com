@@ -13,16 +13,16 @@ export default function Courses() {
         <meta name="keywords" content="ยิงads,facebook,สายเทา,โฆษณา,ยิงads facebook สายเทา,รับยิงads,รับยิงแอด สายเทา,facebook ads,google ads,google,รับยิงแอด,ads,รับทำโฆษณา,รับโฆษณา,Facebook,การตลาด,โฆษณาออนไลน์,เว็บไซต์,ตลาดเป้าหมาย,โฆษณาบนโซเชียลมีเดีย,Google Ads,การโฆษณาบน Facebook,การโฆษณาออนไลน์บนสื่อต่าง ๆ,การตลาดออนไลน์,การโปรโมท,โฆษณา Facebook,การโฆษณา Google,การโฆษณาสินค้า,การโฆษณาโปรโมชั่น,วิธีการโฆษณา,ความสำเร็จในการตลาด,บริการโฆษณา,การตลาดออนไลน์บน Facebook,การโฆษณาบนเว็บ,การวางแผนโฆษณา,รับจ้างโฆษณา ยิงads,facebook,สายเทา,โฆษณา,ยิงads facebook สายเทา,รับยิงads,รับยิงแอด สายเทา,facebook ads,google ads,google,ads,สอนยิงแอด,สอนยิงแอด Conversion,สอนยิงแอดสายเทา,ยิงแอดสายเทา,ยิงโฆษณาสายเทา,รับทำ seo สายเทา,รับทำ seo สายดำ,แอดสายเทา,รับยิงแอดสายเทา,กูเกิ้ลแอดสายเทา,รับทํา google ads,สายเทา seo สายเทา,ตลาดสีเทา,แอดสีเทา,adsสีเทา,กราฟฟิกสายเทา,ยิงแอดเทา,รับยิงแอดfacebookสายเทา,รูปยิงแอดสายเทา,รับจ้างสายเทา,รับโฆษณาสายเทา" />
         <meta property="og:title" content="บริการคอร์สเรียนทำการตลาดออนไลน์" />
         <meta property="og:description" content="บริการคอร์สเรียนทำการตลาดออนไลน์: โฆษณา Facebook และ Google สายเทา" />
-        <meta property="og:image" content="https://www.myads.dev/img/course.webp" />
-        <meta property="og:url" content="https://www.myads.dev/" />
+        <meta property="og:image" content="https://www.myad-dev.com/img/course.webp" />
+        <meta property="og:url" content="https://www.myad-dev.com/" />
         <meta property="og:type" content="website" />
         <meta property="og:site_name" content="AdsDev" />
         <meta property="twitter:card" content="summary_large_image" />
         <meta property="twitter:title" content="บริการคอร์สเรียนทำการตลาดออนไลน์" />
         <meta property="twitter:description" content="บริการคอร์สเรียนทำการตลาดออนไลน์: โฆษณา Facebook และ Google สายเทา" />
-        <meta property="twitter:image" content="https://www.myads.dev/img/course.webp" />
-        <meta property="twitter:url" content="https://www.myads.dev/" />
-        <link rel="canonical" href="https://www.myads.dev/" />
+        <meta property="twitter:image" content="https://www.myad-dev.com/img/course.webp" />
+        <meta property="twitter:url" content="https://www.myad-dev.com/" />
+        <link rel="canonical" href="https://www.myad-dev.com/" />
       </>
 
       <div className='container'>

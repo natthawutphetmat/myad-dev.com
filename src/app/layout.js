@@ -3,9 +3,9 @@ import { GoogleAnalytics } from '@next/third-parties/google'
 import { GoogleTagManager } from '@next/third-parties/google'
 import Header from './components/headers'
 import Footer from './components/footer'
-import "./style.css"; // เปลี่ยนจาก "./setyls/style.css" เป็น "../styles/setyls/style.css"
-import "./nav.css"; // เปลี่ยนจาก "./setyls/style.css" เป็น "../styles/setyls/style.css"
-import "./form.css"; // เปลี่ยนจาก "./setyls/style.css" เป็น "../styles/setyls/style.css"
+import "./style.css"; 
+import "./nav.css"; 
+import "./form.css";  
 
 import "./globals.css";  
 
@@ -27,8 +27,32 @@ export default function RootLayout({ children }) {
     <html lang="en">
       <head>
 
-       
-
+      <script type="application/ld+json">
+          {JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+              {
+                "@type": "Question",
+                "name": "รับจ้างยิงแอดทำโฆษณาออนไลน์",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "รับจ้างยิงแอดทำโฆษณาออนไลน์ รับทำโฆษณา Facebook Ads รับทำโฆษณา Google สายเทา"
+                }
+              },
+              {
+                "@type": "Question",
+                "name": "รับทำโฆษณาออนไลน์",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "รับทำโฆษณาออนไลน์ รับจ้างยิงแอดทำโฆษณาออนไลน์ รับทำโฆษณา Facebook Ads รับทำโฆษณา Google สายเทา"
+                }
+              }
+            ]
+          })}
+        </script>
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta name="author" content="myadsdev" />
 <meta name="title" content="รับจ้างยิงแอดทำโฆษณาออนไลน์ 
 " />
 <meta name="description" content="รับจ้างยิงแอดทำโฆษณาออนไลน์
@@ -39,7 +63,7 @@ export default function RootLayout({ children }) {
 
  
 <meta property="og:type" content="website" />
-<meta property="og:url" content="https://myads.dev/" />
+<meta property="og:url" content="https://www.myad-dev.com/" />
 <meta property="og:title" content="รับจ้างยิงแอดทำโฆษณาออนไลน์ 
 " />
 <meta property="og:description" content="รับจ้างยิงแอดทำโฆษณาออนไลน์
@@ -47,11 +71,11 @@ export default function RootLayout({ children }) {
 รับทำโฆษณา Google
 ทำโฆษณาเว็บไซต์ต่างๆ ด้วยทีมงานมืออาชีพ อัตราค่าบริการเพียงเดือนละ 9,900 บาท
 " />
-<meta property="og:image" content="https://myads.dev/logo.png" />
+<meta property="og:image" content="https://www.myad-dev.com/logo.png" />
 
  
 <meta property="twitter:card" content="summary_large_image" />
-<meta property="twitter:url" content="https://myads.dev/" />
+<meta property="twitter:url" content="https://www.myad-dev.com/" />
 <meta property="twitter:title" content="รับจ้างยิงแอดทำโฆษณาออนไลน์ 
 " />
 <meta property="twitter:description" content="รับจ้างยิงแอดทำโฆษณาออนไลน์
@@ -59,10 +83,10 @@ export default function RootLayout({ children }) {
 รับทำโฆษณา Google
 ทำโฆษณาเว็บไซต์ต่างๆ ด้วยทีมงานมืออาชีพ อัตราค่าบริการเพียงเดือนละ 9,900 บาท
 " />
-<meta property="twitter:image" content="https://myads.dev/logo.png" />
+<meta property="twitter:image" content="https://www.myad-dev.com/logo.png" />
 <meta name="google-site-verification" content="ryOmDGaWXKrwl4E9xiLHh2maGVlmpjzyFN8m9QfAyyM" />
 <meta name="robots" content="index" />
-<link rel="canonical" href="https://www.myads.dev" />
+<link rel="canonical" href="https://www.myad-dev.com" />
 
 <meta name="keywords" content="ยิงads,facebook,สายเทา,โฆษณา,ยิงads facebook สายเทา,รับยิงads,รับยิงแอด สายเทา,facebook ads,google ads,google, รับยิงแอด,ads,รับทำโฆษณา,รับโฆษณา,Facebook,การตลาด,โฆษณาออนไลน์,เว็บไซต์,ตลาดเป้าหมาย,โฆษณาบนโซเชียลมีเดีย,Google Ads,การโฆษณาบน Facebook,การโฆษณาออนไลน์บนสื่อต่างๆ, การตลาดออนไลน์,การโปรโมท,โฆษณา Facebook,การโฆษณา Google,การโฆษณาสินค้า,การโฆษณาโปรโมชั่น,วิธีการโฆษณา,ความสำเร็จในการตลาด,บริการโฆษณา,การตลาดออนไลน์บน Facebook, การโฆษณาบนเว็บ,การวางแผนโฆษณา,รับจ้างโฆษณา ยิงads,facebook,สายเทา,โฆษณา,ยิงads facebook สายเทา,รับยิงads,รับยิงแอด สายเทา,facebook ads,google ads,google,ads,สอนยิงแอด, สอนยิงแอด Conversion,สอนยิงแอดสายเทา,ยิงแอดสายเทา,ยิงโฆษณาสายเทา,รับทำ seo สายเทา,รับทำ seo สายดำ,แอดสายเทา,รับยิงแอดสายเทา,กูเกิ้ลแอดสายเทา,รับทํา google ads,สายเทา seo สายเทา, ตลาดสีเทา,แอดสีเทา,adsสีเทา,กราฟฟิกสายเทา,ยิงแอดเทา,รับยิงแอดfacebookสายเทา,รูปยิงแอดสายเทา,รับจ้างสายเทา,รับโฆษณาสายเทา"/>
 

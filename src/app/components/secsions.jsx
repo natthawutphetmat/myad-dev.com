@@ -24,7 +24,7 @@ export default function secsions() {
                 <li>รายงานผลทุกวัน เวลา 10.00 น.
                 </li>
               </ul>
-              <Link type="button" href='https://lin.ee/RAtXbEtM'  className="w-100 btn btn-lg btn-success">Get started</Link>
+              <Link type="button" href='https://line.myads.dev'  className="w-100 btn btn-lg btn-success">Get started</Link>
             </div>
           </div>
         </div>
@@ -41,7 +41,7 @@ export default function secsions() {
                 <li>ชำระเงินง่ายดายด้วยบัตรเครดิตของคุณ</li>
                 <li>รายงานผลทุกวัน เวลา 10.00 น</li>
               </ul>
-              <Link type="button" href='https://lin.ee/RAtXbEtM' className="w-100 btn btn-lg btn-info">Get started</Link>
+              <Link type="button" href='https://line.myads.dev' className="w-100 btn btn-lg btn-info">Get started</Link>
             </div>
           </div>
         </div>
@@ -58,7 +58,7 @@ export default function secsions() {
                 <li>รายงานผลทุกวัน เวลา 10.00 น.</li>
                 <li>ใช้บัตรของลูกค้าเองได้</li>
               </ul>
-              <Link type="button" href='https://lin.ee/RAtXbEtM' className="w-100 btn btn-lg btn-primary">Get started</Link>
+              <Link type="button" href='https://line.myads.dev' className="w-100 btn btn-lg btn-primary">Get started</Link>
             </div>
           </div>
         </div>

@@ -12,22 +12,22 @@ export default function page() {
  
   
  <meta property="og:type" content="website" />
- <meta property="og:url" content="https://www.myads.dev/google" />
+ <meta property="og:url" content="https://www.myad-dev.com/google" />
  <meta property="og:title" content="โฆษณาFacebook_Ads | รับจ้างยิงแอดทำโฆษณาออนไลน์ " />
  <meta property="og:description" content="โฆษณาFacebook_Ads | เนื้อหาความรู้ดีๆที่ทุกคนเข้าถึงได้ 
   รับจ้างยิงแอดทำโฆษณาออนไลน์ รับทำโฆษณา Facebook Ads รับทำโฆษณา Google ทำโฆษณาเว็บไซต์ต่างๆ ด้วยทีมงานมืออาชีพ" />
- <meta property="og:image" content="https://www.myads.dev/img/ads.jpg" />
+ <meta property="og:image" content="https://www.myad-dev.com/img/ads.jpg" />
  
   
  <meta property="twitter:card" content="summary_large_image" />
- <meta property="twitter:url" content="https://www.myads.dev/https://www.myads.dev/Postpages" />
+ <meta property="twitter:url" content="https://www.myads.dev/Postpages" />
  <meta property="twitter:title" content="โฆษณาFacebook_Ads | รับจ้างยิงแอดทำโฆษณาออนไลน์ " />
  <meta property="twitter:description" content="โฆษณาFacebook_Ads | เนื้อหาความรู้ดีๆที่ทุกคนเข้าถึงได้ 
   รับจ้างยิงแอดทำโฆษณาออนไลน์ รับทำโฆษณา Facebook Ads รับทำโฆษณา Google ทำโฆษณาเว็บไซต์ต่างๆ ด้วยทีมงานมืออาชีพ" />
- <meta property="twitter:image" content="https://www.myads.dev/img/ads.jpg" />
+ <meta property="twitter:image" content="https://www.myad-dev.com/img/ads.jpg" />
  
  <meta name="robots" content="index" />
- <link rel="canonical" href="https://www.myads.dev" />
+ <link rel="canonical" href="https://www.myad-dev.com" />
  
  
   
