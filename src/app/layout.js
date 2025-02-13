@@ -123,7 +123,7 @@ export default function RootLayout({ children }) {
 
       <meta name="google-site-verification" content="mFESL3SA5vVBU7zoYemzaPAw5NuqtNcvkAa2aSQ1QEA" />
       <link rel="shortcut icon" href="/img/favicon.ico" type="image/x-icon"/>
-        <script async src="https://www.googletagmanager.com/gtag/js?id=AW-16714335017"></script>
+        <script async src="https://www.googletagmanager.com/gtag/js?id=AW-16871170229"></script>
         <script
           dangerouslySetInnerHTML={{
             __html: `
@@ -131,7 +131,7 @@ export default function RootLayout({ children }) {
               function gtag(){dataLayer.push(arguments);}
               gtag('js', new Date());
         
-              gtag('config', 'AW-16714335017');
+              gtag('config', 'AW-16871170229');
             `,
           }}
         />
